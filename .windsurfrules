@@ -1,0 +1,4 @@
+1. We are using nextjs and tailwind css
+2. Do not duplicate files or create new files unless asked to do so.
+3. Don't tell me to look for files in the project, just show me the file path.
+4. Don't ask me to find a function or class, just do it yourself.
